@@ -1,5 +1,12 @@
-# StudyHunter
+# QuestPartner
 함께 공부할 스터디 팀원을 모집하는 웹 서비스
+
+![image](https://github.com/StudyHunter/Frontend/assets/77632032/009439b7-d824-47c8-89d5-86e6270322bf)
+
+| | |
+|------|---|
+|![회고영상4](https://github.com/StudyHunter/Frontend/assets/77632032/f8365451-fc7a-42f1-9a67-6daf16273699)|![회고영상5](https://github.com/StudyHunter/Frontend/assets/77632032/11d0c3d8-e737-4897-b787-18272198c84f)|
+|![회고영상2](https://github.com/StudyHunter/Frontend/assets/77632032/e7215a90-242d-4013-9864-35482f4f9aa7)|![회고영상3](https://github.com/StudyHunter/Frontend/assets/77632032/33b3e514-ed8b-4cdc-9ea2-21ec6a4da78a)|
 
 ## 사용 기술
 #### Backend
